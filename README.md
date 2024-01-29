@@ -1,5 +1,7 @@
 
 # Historical Music Genres and Their Cultural Landscapes
+![wordcloud-1-jazz](https://github.com/anthonykminsu/ExploringHistoricalMusicGenres/assets/77130958/56bdb0f3-f0fc-41b9-88f8-5711bc8e923a)
+![wordcloud-2-rap](https://github.com/anthonykminsu/ExploringHistoricalMusicGenres/assets/77130958/6ea2f1da-23a9-4012-b769-dfb16fdbaade)
 
 ## Project Overview
 This project explores the cultural and geographic influence on three historical music genres: rap, jazz, and rock. By analyzing terms associated with these genres within key influential cities, we aim to understand the unique identities and cultural significance that each genre has developed over time.
