@@ -1,5 +1,5 @@
 
-# Historical Music Genres and Their Cultural Landscapes
+# Exploring Historical Music Genres
 ![wordcloud-1-jazz](https://github.com/anthonykminsu/ExploringHistoricalMusicGenres/assets/77130958/56bdb0f3-f0fc-41b9-88f8-5711bc8e923a)
 
 ## Project Overview
