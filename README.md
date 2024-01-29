@@ -54,8 +54,8 @@ Improvements for future research could include a broader range of search terms, 
 One thing that stood out that I found interesting from the rap word cloud was the prevalence of modern digtial communication terms that is used among younger generations. From the research, I was expecting more words that came from historical subgenres like boom-bap or trap. However, it was cool to see the impact of the younger generation on music in a digital context, highlighting the different pace of development in terms of cultural evolution among music genres. Moreover, while I anticipated a stark contrast in terminology between the genres, the presence of cross-genre terminology among the word clouds suggested a more interconnected musical landscape than initially thought. The similarities ultimately signifies the evolving landscape of musical fusion, with genres blending in ways that may not align with historical perspectives.
 
 #### File Downloads
-- [Download Jazz CSV file]([http://www.example.com/data.csv](https://anthonykminsu.github.io/ExploringHistoricalMusicGenres/assets/search-result-1-jazz.csv))
-- [Download CSV file](http://www.example.com/data.csv)
-- [Download CSV file](http://www.example.com/data.csv)
+- [Download Jazz Music CSV file](https://anthonykminsu.github.io/ExploringHistoricalMusicGenres/assets/search-result-1-jazz.csv)
+- [Download Rap Music CSV file](https://anthonykminsu.github.io/ExploringHistoricalMusicGenres/assets/search-result-2-rap.csv)
+- [Download Rock Music CSV file](https://anthonykminsu.github.io/ExploringHistoricalMusicGenres/assets/search-result-3-rock.csv)
 
 
