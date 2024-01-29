@@ -22,11 +22,9 @@ The comparison seeks to uncover the digital footprint and public discourse surro
 - **Jazz Music:** Concentrating on New Orleans, Chicago, and New York.
 - **Rock Music:** Highlighting London, Seattle, and Los Angeles.
 
-![wordcloud-2-rap](https://github.com/anthonykminsu/ExploringHistoricalMusicGenres/assets/77130958/6ea2f1da-23a9-4012-b769-dfb16fdbaade)
-
 ## Narrative
 Through the visualization of word clouds, this lab attempts to focus on exploring the cultural and geographic landscapes of three historical music genres— rap, jazz, and rock-roll. By examining the prevalence and associations of these genres within key cities that have been influential in their development, I was able to draw conclusions about the impacts these locations has had on the growth of music. The word clouds serve as a visual census, indicating which terms are most associated with each genre in the digital space of Youtube.
-
+![wordcloud-2-rap](https://github.com/anthonykminsu/ExploringHistoricalMusicGenres/assets/77130958/6ea2f1da-23a9-4012-b769-dfb16fdbaade)
 ### Parameters
 The parameters used for this exploratory search are terms and locations that are significant to each genre. For rap, the cities of Detroit, Atlanta, and New York are chosen due to their contributions to the genre's evolution and prominence.  Rap originated from the streets of New York where the rise of hip-hop culture was prominent in the 1970s. Rap became a powerful medium for social commentary and a voice for the marginalized. As the genre matured, cities like Detroit and Atlanta developed their own distinctive rap sounds and styles, influenced by their unique socio-economic backgrounds, local cultures, and musical traditions.
 
